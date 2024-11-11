@@ -70,8 +70,21 @@ export default function Spotlight({
   };
 
   return (
-    <div className={className} ref={containerRef}>
+    <div className={`relative ${className}`} ref={containerRef}>
       {children}
+      <style jsx>{`
+        .${className} {
+          /* Custom spotlight effects for interactive experience */
+          background: radial-gradient(
+            circle at var(--mouse-x) var(--mouse-y),
+            rgba(255, 255, 255, 0.1),
+            transparent 40%
+          );
+          overflow: hidden;
+          position: relative;
+          transition: background 0.1s ease-out;
+        }
+      `}</style>
     </div>
   );
 }
