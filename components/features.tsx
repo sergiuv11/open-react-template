@@ -36,16 +36,14 @@ export default function Features() {
           <div className="mx-auto max-w-3xl pb-4 text-center md:pb-12">
             <div className="inline-flex items-center gap-3 pb-3 before:h-px before:w-8 before:bg-gradient-to-r before:from-transparent before:to-indigo-200/50 after:h-px after:w-8 after:bg-gradient-to-l after:from-transparent after:to-indigo-200/50">
               <span className="inline-flex bg-gradient-to-r from-indigo-500 to-indigo-200 bg-clip-text text-transparent">
-                Advanced Controls
+                Advanced Tech Solutions
               </span>
             </div>
             <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,theme(colors.gray.200),theme(colors.indigo.200),theme(colors.gray.50),theme(colors.indigo.300),theme(colors.gray.200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-3xl font-semibold text-transparent md:text-4xl">
-              Built for modern product teams
+              Built for Innovative Developers and Ethical Cybersecurity
             </h2>
             <p className="text-lg text-indigo-200/65">
-              Open AI reads and understands your files, and with nothing more
-              than a single line of feedback, so you can go further than the
-              speed of thought.
+              Empower your projects with modern tools, ethical considerations, and unmatched security. Designed for developers who value privacy, innovation, and purpose-driven technology.
             </p>
           </div>
           <div className="flex justify-center pb-4 md:pb-12" data-aos="fade-up">
@@ -73,11 +71,10 @@ export default function Features() {
                 />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Project Milestones
+                Cybersecurity Insights
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Protect your data and stay ahead with state-of-the-art security measures. Focused on privacy, ethical hacking, and advanced cybersecurity tactics.
               </p>
             </article>
             <article>
@@ -91,11 +88,10 @@ export default function Features() {
                 <path d="M19 6H0v2h17v8H7v-6H5v8h19v-2h-5V6Z" />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Team Views
+                Server Management
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Easily manage and monitor your servers with tools designed for seamless operation. Prioritizes uptime, security, and easy maintenance.
               </p>
             </article>
             <article>
@@ -112,11 +108,10 @@ export default function Features() {
                 />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Advanced Search
+                Customizable Solutions
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Tailor your tech stack to meet your needs, from ethical considerations to specific business goals. Achieve flexibility without sacrificing integrity.
               </p>
             </article>
             <article>
@@ -141,8 +136,7 @@ export default function Features() {
                 Strategic Initiatives
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Drive impactful changes with ethical and forward-thinking strategies. Focus on security, privacy, and transparency as the foundation of every initiative.
               </p>
             </article>
             <article>
@@ -162,8 +156,7 @@ export default function Features() {
                 Flexible Workflows
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Adapt your workflows to meet unique demands in cybersecurity, server management, or ethical tech projects, without compromising efficiency.
               </p>
             </article>
             <article>
@@ -183,8 +176,7 @@ export default function Features() {
                 Unified Timeline
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Maintain a unified timeline to oversee projects from start to finish, whether for personal initiatives, client projects, or security tasks.
               </p>
             </article>
           </div>
